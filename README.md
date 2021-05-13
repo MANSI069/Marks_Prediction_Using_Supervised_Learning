@@ -16,3 +16,12 @@ __Aim__ : PREDICTION OF OPTIMUM NUMBER OF CLUSTERS FROM THE GIVEN IRIS DATASET
 
 Author: Mansi Sharma
 ### Dataset - Iris.csv available at https://bit.ly/3kXTdox
+
+
+# TASK 4: Exploratory Data Analysis - Terrorism
+__Aim__:Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+
+-As a security/defense analyst, try to find out the hot zone of terrorism.
+-What all security issues and insights you can derive by EDA?
+
+### Dataset:https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view?usp=sharing¶
