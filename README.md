@@ -28,3 +28,11 @@ __Aim__:Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism�
 -What all security issues and insights you can derive by EDA?
 
 ### Dataset:https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view?usp=sharing¶
+
+
+### TASK 6: Prediction using Decision Tree Algorithm
+
+__AIM__ :Create the Decision Tree classifier and visualize it graphically.
+We will be using iris dataset for this task which consists of 4 features (sepal length, sepal width, petal length and petal width) and 3 species of iris (setosa, versicolor and virginica)
+
+### Dataset :https://bit.ly/3kXTdox
