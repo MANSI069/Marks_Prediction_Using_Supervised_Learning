@@ -36,3 +36,11 @@ __AIM__ :Create the Decision Tree classifier and visualize it graphically.
 We will be using iris dataset for this task which consists of 4 features (sepal length, sepal width, petal length and petal width) and 3 species of iris (setosa, versicolor and virginica)
 
 ### Dataset :https://bit.ly/3kXTdox
+
+
+
+# TASK 5: Exploratory Data Analysis - Sports
+
+_Aim_ :Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’ As a sports analysts, find out the most successful teams, players and factors contributing to win or loss of a team.
+
+### Dataset:https://bit.ly/34SRn3b
