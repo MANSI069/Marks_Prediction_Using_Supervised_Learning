@@ -30,6 +30,12 @@ __Aim__:Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism�
 ### Dataset:https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view?usp=sharing¶
 
 
+# TASK 5: Exploratory Data Analysis - Sports
+
+_Aim_ :Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’ As a sports analysts, find out the most successful teams, players and factors contributing to win or loss of a team.
+
+### Dataset:https://bit.ly/34SRn3b
+
 # TASK 6: Prediction using Decision Tree Algorithm
 
 __AIM__ :Create the Decision Tree classifier and visualize it graphically.
@@ -39,8 +45,4 @@ We will be using iris dataset for this task which consists of 4 features (sepal 
 
 
 
-# TASK 5: Exploratory Data Analysis - Sports
 
-_Aim_ :Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’ As a sports analysts, find out the most successful teams, players and factors contributing to win or loss of a team.
-
-### Dataset:https://bit.ly/34SRn3b
